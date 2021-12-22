@@ -1,1 +1,1 @@
-### AirBnB clone - MySQL
+This project is **0x02. AirBnB clone - MySQL**
